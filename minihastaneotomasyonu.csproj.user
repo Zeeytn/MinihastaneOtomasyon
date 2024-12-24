@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BransDüzenlemePaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoktorEklemePaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoktorEkranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoktorGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoktorReçete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoktorTahlil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Duyurular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GirisPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HastaEkranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HastaGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HastaKayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="hastaProfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MailGönder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RandevuListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reçetelerim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SekreterDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SekreterGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tahlillerim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
